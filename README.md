@@ -7,8 +7,8 @@ url_UI: https://lanhuapp.com/url/7m3MS
 ###### :star:Basic
 1. Girds 栅格                                            --:cold_sweat:`待认领`
 2. Layout 布局                                           --:cold_sweat:`待认领`
-3. Color 色彩                                            --:cold_sweat:`待认领`
-4. Font 字体                                             --:cold_sweat:`待认领`
+3. Color 色彩                                            --:sunglasses: 已认领 瑜
+4. Font 字体                                             --:sunglasses: 已认领 瑜
 5. Icons 图标                                            --:cold_sweat:`待认领`
 6. Button 按钮                                           --:cold_sweat:`待认领`
 7. DroButton 下拉按钮                                     --:cold_sweat:`待认领`
