@@ -29,7 +29,7 @@ url_UI: https://lanhuapp.com/url/7m3MS
 21. Cascader 级联选择器                                   --:cold_sweat:`待认领`
 22. Upload 上传                                           --:cold_sweat:`待认领`
 ###### :star:Common
-23. Alert警告提示                                         --:cold_sweat:`待认领`
+23. Alert警告提示                                         --:sunglasses:`已认领` - `继`
 24. TimeLine 时间线                                       --:cold_sweat:`待认领`
 25. Tooltip 文字提示                                      --:cold_sweat:`待认领`
 26. Progress 进度条                                       --:cold_sweat:`待认领`
