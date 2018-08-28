@@ -3,7 +3,7 @@ url_UI: https://lanhuapp.com/url/7m3MS
 ### overview
 :cold_sweat: 待认领
 
-:sunglasses: 已认领 + firstname
+:sunglasses: 已认领 + name
 ###### :star:Basic
 1. Girds 栅格                                            --:cold_sweat:`待认领`
 2. Layout 布局                                           --:cold_sweat:`待认领`
