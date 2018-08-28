@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import zybLayout from '@/components/zybLayout'
+import zybLayout from '@/components/zybLayout/zybLayout.vue'
 
 export default {
   name: 'App',
