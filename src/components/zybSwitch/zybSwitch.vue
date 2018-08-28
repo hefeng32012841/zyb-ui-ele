@@ -1,5 +1,5 @@
 <template>
-  <div class="zybSwitch-page">
+  <div class="zyb-switch-page">
     zybSwitch
   </div>
 </template>

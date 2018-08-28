@@ -1,5 +1,5 @@
 <template>
-  <div class="zybRadio-page">
+  <div class="zyb-radio-page">
     zybRadio
   </div>
 </template>

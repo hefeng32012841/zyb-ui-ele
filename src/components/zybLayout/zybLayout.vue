@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="zyb-menu-page">
     <manManagementHead :userName="userName" :imgSrc="imgSrc"></manManagementHead>
     <div id="layout-content" :class="{'isFoldBox': isFold}">
       <div id="layout-left" :class="{'isFold': isFold}">
@@ -94,11 +94,9 @@ body {
   width: 100%;
   background: #f2f2f2;
 }
-body {
+.zyb-menu-page {
   padding-top: 50px;
   height: 100%;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
 .root {
@@ -109,16 +107,12 @@ body {
   right: 30px;
   background-color: #fff;
   overflow-y: auto;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
   box-sizing: border-box;
   padding: 40px;
 }
 #layout-content {
   width: 100%;
   padding-left: 160px;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
   box-sizing: border-box;
   background: #f2f2f2;
 
@@ -129,8 +123,6 @@ body {
 #layout-left {
   background-color: #fefefe;
   width: 160px;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
   box-sizing: border-box;
   border-right: 1px solid #f0f1f5;
   position: fixed;

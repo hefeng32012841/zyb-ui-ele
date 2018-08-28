@@ -1,5 +1,5 @@
 <template>
-  <div class="zybCollapse-page">
+  <div class="zyb-collapse-page">
     zybCollapse
   </div>
 </template>

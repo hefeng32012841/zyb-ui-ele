@@ -1,5 +1,5 @@
 <template>
-  <div class="zybIcons-page">
+  <div class="zyb-icons-page">
     zybIcons
   </div>
 </template>

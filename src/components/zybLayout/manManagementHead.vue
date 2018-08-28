@@ -1,5 +1,5 @@
 <template>
-  <div class="top-bar">
+  <div class="zyb-top-bar">
     <div class="logo">
       <div class="logo-box" :class="{'unfoldBox': !isFolded}">
         <img src="../../images/top-bar/logo_big.svg" class="big-logo" v-if="isFolded">
@@ -53,7 +53,7 @@ export default {
 </script>
 
 <style scoped lang="less">
-.top-bar {
+.zyb-top-bar {
   position: fixed;
   top: 0;
   right: 0;

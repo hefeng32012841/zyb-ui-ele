@@ -1,5 +1,5 @@
 <template>
-  <div class="zybUpload-page">
+  <div class="zyb-upload-page">
     zybUpload
   </div>
 </template>

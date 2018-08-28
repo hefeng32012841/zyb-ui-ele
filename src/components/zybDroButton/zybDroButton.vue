@@ -1,5 +1,5 @@
 <template>
-  <div class="zybDroButton-page">
+  <div class="zyb-droButton-page">
     zybDroButton
   </div>
 </template>

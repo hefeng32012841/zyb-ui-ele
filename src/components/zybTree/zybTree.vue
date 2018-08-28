@@ -1,5 +1,5 @@
 <template>
-  <div class="zybTree-page">
+  <div class="zyb-tree-page">
     zybTree
   </div>
 </template>

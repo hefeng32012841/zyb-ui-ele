@@ -1,5 +1,5 @@
 <template>
-  <div class="zybSelect-page">
+  <div class="zyb-select-page">
     zybSelect
   </div>
 </template>

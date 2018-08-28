@@ -1,5 +1,5 @@
 <template>
-  <div class="zybCascader-page">
+  <div class="zyb-cascader-page">
     zybCascader
   </div>
 </template>

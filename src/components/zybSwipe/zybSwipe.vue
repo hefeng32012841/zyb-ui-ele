@@ -1,5 +1,5 @@
 <template>
-  <div class="zybSwipe-page">
+  <div class="zyb-swipe-page">
     zybSwipe
   </div>
 </template>

@@ -1,5 +1,5 @@
 <template>
-  <div class="zybSlide-page">
+  <div class="zyb-slide-page">
     zybSlide
   </div>
 </template>

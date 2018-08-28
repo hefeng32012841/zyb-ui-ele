@@ -1,5 +1,5 @@
 <template>
-  <div class="zybSearch-page">
+  <div class="zyb-search-page">
     zybSearch
   </div>
 </template>

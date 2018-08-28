@@ -1,5 +1,5 @@
 <template>
-  <div class="zybModel-page">
+  <div class="zyb-model-page">
     zybModel
   </div>
 </template>

@@ -1,5 +1,5 @@
 <template>
-  <div class="zybDivider-page">
+  <div class="zyb-divider-page">
     zybDivider
   </div>
 </template>

@@ -1,5 +1,5 @@
 <template>
-  <div class="zybGirds-page">
+  <div class="zyb-girds-page">
     zybGirds
   </div>
 </template>

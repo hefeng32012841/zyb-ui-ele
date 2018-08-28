@@ -1,5 +1,5 @@
 <template>
-  <div class="zybInput-page">
+  <div class="zyb-input-page">
     zybInput
   </div>
 </template>

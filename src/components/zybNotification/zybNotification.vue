@@ -1,5 +1,5 @@
 <template>
-  <div class="zybNotification-page">
+  <div class="zyb-notification-page">
     zybNotification
   </div>
 </template>

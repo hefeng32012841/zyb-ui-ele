@@ -1,5 +1,5 @@
 <template>
-  <div class="zybFont-page">
+  <div class="zyb-font-page">
     zybFont
   </div>
 </template>

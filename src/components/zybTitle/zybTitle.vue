@@ -1,5 +1,5 @@
 <template>
-  <div class="zybTitle-page">
+  <div class="zyb-title-page">
     zybTitle
   </div>
 </template>

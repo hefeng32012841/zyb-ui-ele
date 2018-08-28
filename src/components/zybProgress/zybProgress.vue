@@ -1,5 +1,5 @@
 <template>
-  <div class="zybProgress-page">
+  <div class="zyb-progress-page">
     zybProgress
   </div>
 </template>

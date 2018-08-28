@@ -1,5 +1,5 @@
 <template>
-  <div class="zybCheckbox-page">
+  <div class="zyb-checkbox-page">
     zybCheckbox
   </div>
 </template>

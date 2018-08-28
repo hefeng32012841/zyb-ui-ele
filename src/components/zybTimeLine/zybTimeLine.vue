@@ -1,5 +1,5 @@
 <template>
-  <div class="zybTimeLine-page">
+  <div class="zyb-timeLine-page">
     zybTimeLine
   </div>
 </template>

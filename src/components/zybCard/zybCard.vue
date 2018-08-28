@@ -1,5 +1,5 @@
 <template>
-  <div class="zybCard-page">
+  <div class="zyb-card-page">
     zybCard
   </div>
 </template>

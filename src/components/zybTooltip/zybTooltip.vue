@@ -1,5 +1,5 @@
 <template>
-  <div class="zybTooltip-page">
+  <div class="zyb-tooltip-page">
     zybTooltip
   </div>
 </template>

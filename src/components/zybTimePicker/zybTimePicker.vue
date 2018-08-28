@@ -1,5 +1,5 @@
 <template>
-  <div class="zybTimePicker-page">
+  <div class="zyb-timePicker-page">
     zybTimePicker
   </div>
 </template>

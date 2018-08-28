@@ -1,5 +1,5 @@
 <template>
-  <div class="zybPreview-page">
+  <div class="zyb-preview-page">
     zybPreview
   </div>
 </template>

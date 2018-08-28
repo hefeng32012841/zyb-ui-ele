@@ -1,5 +1,5 @@
 <template>
-  <div class="zybColor-page">
+  <div class="zyb-color-page">
     <h2>Color 色彩</h2>
     <p>概述</p>
     <span>使用较为的绿色作为主色调，跟进不同的后台风格，延展蓝色作为可选择颜色库，统一修改组件整体配色。</span> 
@@ -33,7 +33,7 @@ export default {
 </script>
 
 <style lang="less" scoped>
-.zybColor-page {
+.zyb-color-page {
   line-height: 2;
   > h2 {
     font-size: 28px;

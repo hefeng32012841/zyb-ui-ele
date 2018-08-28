@@ -1,5 +1,5 @@
 <template>
-  <div class="zybAlert-page">
+  <div class="zyb-alert-page">
     zybAlert
   </div>
 </template>

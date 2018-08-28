@@ -1,5 +1,5 @@
 <template>
-  <div class="zybSpin-page">
+  <div class="zyb-spin-page">
     zybSpin
   </div>
 </template>

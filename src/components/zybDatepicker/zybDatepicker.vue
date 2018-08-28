@@ -1,5 +1,5 @@
 <template>
-  <div class="zybDatepicker-page">
+  <div class="zyb-datepicker-page">
     zybDatepicker
   </div>
 </template>
