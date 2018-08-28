@@ -8,6 +8,7 @@
       <label>{{ item.name }}</label>
       <colorItem
       v-for="(v, i) of item.colors"
+      :colorDef="v.colorDef"
       :colorName="v.colorName"
       :colorValue="v.colorValue"
       :key="i"></colorItem>
