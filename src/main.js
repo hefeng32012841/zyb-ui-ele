@@ -6,6 +6,8 @@ import router from './router'
 import elementUi from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css';
 import './style/base.less'
+import './style/highlight/styles/solarized-dark.css';
+import './style/highlight/highlight.pack.js'
 
 Vue.config.productionTip = false
 Vue.use(elementUi)
