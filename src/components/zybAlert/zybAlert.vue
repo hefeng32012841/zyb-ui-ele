@@ -63,7 +63,10 @@ export default {
         type: type,
         duration: 3000,
         message: '这是一条消息提示',
+        // 暗黑样式
         customClass: 'el-message-dark'
+        // 纯白样式
+        // customClass: 'el-message-light'
       });
     }
   }
@@ -78,33 +81,6 @@ export default {
         <el-button :plain="true" @click="open3('warning')">警告提示</el-button>
         <el-button :plain="true" @click="open3('success')">成功提示</el-button>
         <el-button :plain="true" @click="open3('error')">失败提示</el-button>
-      </div>
-      <div class="highlight">
-        <pre>
-          <code class="html javascript">
-&lttemplate&gt
-  &ltel-button :plain="true" @click="open3('info')"&gt打开消息提示&lt/el-button&gt
-  &ltel-button :plain="true" @click="open3('warning')"&gt打开消息提示&lt/el-button&gt
-  &ltel-button :plain="true" @click="open3('success')"&gt打开消息提示&lt/el-button&gt
-  &ltel-button :plain="true" @click="open3('error')"&gt打开消息提示&lt/el-button&gt
-&lt/template&gt
-
-&ltscript&gt
-export default {
-  methods: {
-    open3(type) {
-      this.$message({
-        type: type,
-        duration: 3000,
-        message: '这是一条消息提示',
-        customClass: 'el-message-light'
-      });
-    }
-  }
-}
-&lt/script&gt
-          </code>
-        </pre>
       </div>
     </div>
   </div>
