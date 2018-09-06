@@ -151,7 +151,6 @@ export default {
 
 <style lang="less" scoped>
 .zyb-alert-page {
-  font-family:PingFang-Regular;
   padding: 40px;
   h2 {
     padding: 20px  0 20px 0;
