@@ -88,15 +88,6 @@ export default {
 <script>
 export default {
   name: 'zybAlert',
-  // 每次加载组件自动渲染代码样式
-  directives: {
-    highlight: (el) => {
-      let blocks = el.querySelectorAll('pre code');
-      blocks.forEach((block)=>{
-        hljs.highlightBlock(block)
-      });
-    }
-  },
   methods: {
     open1(type) {
       this.$message({
