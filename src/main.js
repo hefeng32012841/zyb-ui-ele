@@ -11,6 +11,7 @@ import 'highlight.js/styles/solarized-dark.css';
 
 Vue.config.productionTip = false
 Vue.use(elementUi)
+// 自定义指令: 页面代码渲染, 使用方法: 在代码标签最外层添加'v-highlight'
 Vue.directive('highlight',function (el) {
   let blocks = el.querySelectorAll('pre code');
   blocks.forEach((block)=>{

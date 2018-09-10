@@ -118,7 +118,6 @@ export default {
 
 <style lang="less" scoped>
 .zyb-alert-page {
-  padding: 40px;
   h2 {
     padding: 20px  0 20px 0;
     font-size: 18px;
