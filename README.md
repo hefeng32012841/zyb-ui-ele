@@ -1,3 +1,29 @@
+本项目基于ele框架结合zyb-ui规范封装的一套theme主题文件
+注意事项：对应文件目录与文件已创建，修改需谨慎，谨慎，谨慎。
+
++ src
+	1.components下文件夹存放各个组件less文件与vue文件，
+		样式应独立存放在对应.less文件中以便打包发布；
+	2.router 现有组件router已添加完整；
+	3.images 项目图片存放目录；
+	4.style reset文件，此文件暂时不参与zyb-ui中。
+
++ theme 
+	1.使用gulp用于压缩封装index.css文件；
+  2.复制项目中zybColor的颜色定义，用于整体颜色风格统一；
+  3.非发布npm包此文件无需关注。
+
+本地开发使用 
+```
+npm run dev
+```
+
+更新线上与本地预览 预览文件 zyb-ui-ele/index.html
+```
+npm run build
+```
+
+
 url_UI: https://lanhuapp.com/url/7m3MS
 
 ### overview

@@ -1,0 +1,31 @@
+{
+  "name": "zyb-ui",
+  "version": "0.0.1",
+  "description": "zyb-ui pack.",
+  "main": "lib/index.css",
+  "style": "lib/index.css",
+  "files": [
+    "lib",
+    "src"
+  ],
+  "scripts": {
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "gulp",
+    "zyb-ui"
+  ],
+  "author": "zhengyu",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-less": "^3.1.0",
+    "gulp-rename": "^1.4.0"
+  },
+  "dependencies": {}
+}
